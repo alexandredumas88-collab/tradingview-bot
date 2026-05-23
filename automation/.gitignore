@@ -1,0 +1,16 @@
+# Generated data cache
+pydata/
+
+# Debug screenshots
+debug-*.png
+
+# Log files
+*.log
+
+# Generated HTML reports and JSON results
+*-report.html
+*-results.json
+*-run.log
+
+# Browser cookies / session state
+.tv-cookies.json
